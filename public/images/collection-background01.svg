@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 762 836" style="enable-background:new 0 0 762 836;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:none;stroke:#FFFFFF;stroke-width:3;stroke-linecap:round;}
+	.st2{fill:url(#SVGID_00000015344266816061728900000007316416179960998325_);}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="0" y1="420" x2="762" y2="420" gradientTransform="matrix(1 0 0 -1 0 838)">
+	<stop  offset="0" style="stop-color:#BBF4FC"/>
+	<stop  offset="0.1233" style="stop-color:#BBF4FC"/>
+	<stop  offset="0.1436" style="stop-color:#BBF4FC"/>
+</linearGradient>
+<rect class="st0" width="762" height="836"/>
+<path class="st1" d="M618.6,0c-20.8,39.6-94.3,187-79.6,267c17,93,169,270,138,356c-23.2,64.5,47.9,131.2,85,160.5"/>
+<path class="st1" d="M649.6,0C627.8,41.4,550,202.4,595,308c52,122,118,235,119,257c1,20.9-36.8,93.9,48,184.9"/>
+<path class="st1" d="M689.3,0c-27.4,54.6-83.9,178.9-70.9,250c17,93,169,270,138,356c-8.4,23.2-4.5,46.7,5.6,68.6"/>
+<linearGradient id="SVGID_00000094612916264771661480000009472043937135629240_" gradientUnits="userSpaceOnUse" x1="-267.3566" y1="918.7" x2="-1074.4922" y2="918.7" gradientTransform="matrix(1 0 0 -1 0 838)">
+	<stop  offset="0" style="stop-color:#BBF4FC"/>
+	<stop  offset="0.4744" style="stop-color:#BDF4FC;stop-opacity:0.514"/>
+	<stop  offset="0.6453" style="stop-color:#C4F5FC;stop-opacity:0.339"/>
+	<stop  offset="0.767" style="stop-color:#CFF7FD;stop-opacity:0.2142"/>
+	<stop  offset="0.8655" style="stop-color:#E0FAFE;stop-opacity:0.1134"/>
+	<stop  offset="0.9489" style="stop-color:#F6FEFF;stop-opacity:2.798301e-02"/>
+	<stop  offset="0.9762" style="stop-color:#FFFFFF;stop-opacity:0"/>
+</linearGradient>
+<rect x="-1017" y="-498.7" style="fill:url(#SVGID_00000094612916264771661480000009472043937135629240_);" width="762" height="836"/>
+<path class="st1" d="M-398.3-498.7c-20.8,39.6-94.3,187-79.6,267c17,93,169,270,138,356c-23.2,64.5,47.9,131.2,85,160.5"/>
+<path class="st1" d="M-367.4-498.7c-21.8,41.4-99.6,202.4-54.6,308c52,122,118,235,119,257c1,20.9-36.8,93.9,48,184.9"/>
+<path class="st1" d="M-327.6-498.7c-27.4,54.6-83.9,178.9-70.9,250c17,93,169,270,138,356c-8.4,23.2-4.5,46.7,5.6,68.6"/>
+</svg>
