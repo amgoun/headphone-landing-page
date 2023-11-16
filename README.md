@@ -1,3 +1,6 @@
+
+ live preview : https://headphone-landing-page-vv1fs6853-rachids-projects-8af1b847.vercel.app/
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
